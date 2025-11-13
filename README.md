@@ -277,8 +277,8 @@ Publish the website in the given URL.
 ## OUTPUT:
 <img width="1917" height="1140" alt="Screenshot 2025-11-13 085225" src="https://github.com/user-attachments/assets/98f65949-95f2-4083-ae52-d991b55a9b6d" />
 <img width="1915" height="1145" alt="Screenshot 2025-11-13 085242" src="https://github.com/user-attachments/assets/57fa8d53-3084-48e0-b7e5-0d6a2cfa71ee" />
-<img width="1909" height="1138" alt="Screenshot 2025-11-13 085305" src="https://github.com/user-attachments/assets/3bd0bc75-83b6-4280-8af0-7f4a3088fce9" />
 <img width="1919" height="1140" alt="Screenshot 2025-11-13 085255" src="https://github.com/user-attachments/assets/dd4700bd-aea2-4f62-98e4-d1fea51b6032" />
+<img width="1909" height="1138" alt="Screenshot 2025-11-13 085305" src="https://github.com/user-attachments/assets/3bd0bc75-83b6-4280-8af0-7f4a3088fce9" />
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
